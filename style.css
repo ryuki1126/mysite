@@ -511,6 +511,13 @@ footer p {
         border-radius: 7px;
     }
 
+    .skills_content_scd_flex p {
+        display: block;
+        margin: 0 auto;
+        font-size: 20px;
+        font-weight: bold;
+    }
+
     .servise_content_scd {
         display: flex;
         flex-wrap: wrap;
